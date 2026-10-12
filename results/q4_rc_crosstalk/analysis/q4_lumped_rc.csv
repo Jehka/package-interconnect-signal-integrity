@@ -1,0 +1,8 @@
+quantity,15 mm lumped
+Line resistance R1 (Ω),5.174889387
+Line resistance R2 (Ω),5.171934488
+Coupling capacitance Cm (pF),0.1353627878
+Ground capacitance Cg1 (pF),1.5544199
+Ground capacitance Cg2 (pF),1.550273291
+Total C11·l (pF),1.689782688
+"Mutual resistance R12·l (Ω), not in circuit",0.4429994153

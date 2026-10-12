@@ -1,0 +1,22 @@
+# Ansys Electronics Desktop working files
+# (the archived project models/ansys/*.aedtz is tracked)
+*.aedt.lock
+*.aedt.auto
+*.aedtresults/
+*.aedb/
+*.asol
+*.semaphore
+*.lock
+
+# Python / scripting
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

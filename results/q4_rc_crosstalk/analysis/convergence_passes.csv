@@ -1,0 +1,13 @@
+design,variation,solver,pass,triangles,total_energy,energy_error_pct,delta_energy_pct,C11_pF_per_m,R11_ohm_per_m
+Q4_Embedded_Coupled_Microstrip,W=20um H=12um er=3.2 Wgnd=2000um,CG,1,164,8.49744e-11,0.974855,,225.67881,
+Q4_Embedded_Coupled_Microstrip,W=20um H=12um er=3.2 Wgnd=2000um,CG,2,302,3.91479e-11,0.24551,53.9297,163.41571,
+Q4_Embedded_Coupled_Microstrip,W=20um H=12um er=3.2 Wgnd=2000um,CG,3,452,2.99106e-11,0.169752,23.5959,121.27053,
+Q4_Embedded_Coupled_Microstrip,W=20um H=12um er=3.2 Wgnd=2000um,CG,4,646,2.8814e-11,0.0231818,3.66631,115.51412,
+Q4_Embedded_Coupled_Microstrip,W=20um H=12um er=3.2 Wgnd=2000um,CG,5,900,2.83556e-11,0.0192765,1.59082,113.56748,
+Q4_Embedded_Coupled_Microstrip,W=20um H=12um er=3.2 Wgnd=2000um,CG,6,1248,2.81285e-11,0.00763244,0.801105,112.65218,
+Q4_Embedded_Coupled_Microstrip,W=20um H=12um er=3.2 Wgnd=2000um,RL,1,164,1.02406e-07,168.505,,,389.21195
+Q4_Embedded_Coupled_Microstrip,W=20um H=12um er=3.2 Wgnd=2000um,RL,2,268,1.45303e-07,50.8153,41.8897,,407.02933
+Q4_Embedded_Coupled_Microstrip,W=20um H=12um er=3.2 Wgnd=2000um,RL,3,424,1.7525e-07,12.9752,20.6098,,377.42642
+Q4_Embedded_Coupled_Microstrip,W=20um H=12um er=3.2 Wgnd=2000um,RL,4,604,1.81405e-07,4.85879,3.51224,,359.33257
+Q4_Embedded_Coupled_Microstrip,W=20um H=12um er=3.2 Wgnd=2000um,RL,5,858,1.83406e-07,1.63044,1.10306,,352.24733
+Q4_Embedded_Coupled_Microstrip,W=20um H=12um er=3.2 Wgnd=2000um,RL,6,1172,1.83783e-07,0.743341,0.205432,,344.99263

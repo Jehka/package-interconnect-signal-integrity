@@ -1,0 +1,28 @@
+{
+  "source_csv": "results\\q4_rc_crosstalk\\Q4_transient_voltage.csv",
+  "samples": 186,
+  "window_ns": [
+    0.0,
+    10.0
+  ],
+  "levels_V": {
+    "low": 0.0,
+    "high": 1.2,
+    "mode": "specified"
+  },
+  "input_reference": "ideal specified pulse: delay 0.5 ns + rise 0.15 ns / 2 (no input-node waveform exported)",
+  "t_in_50_ns": 0.575,
+  "t_out_50_ns": 0.6531934131382497,
+  "propagation_delay_ps": 78.19341313824984,
+  "t_10_ns": 0.5598131735531828,
+  "t_90_ns": 0.8126548070418095,
+  "rise_time_10_90_ps": 252.84163348862663,
+  "input_rise_10_90_ps": 120.0,
+  "crosstalk_peak_abs_mV": 24.5951373084866,
+  "crosstalk_peak_abs_t_ns": 2.34243678496261,
+  "crosstalk_peak_pos_mV": 24.482022853364203,
+  "crosstalk_peak_pos_t_ns": 0.70397341593587,
+  "crosstalk_peak_neg_mV": -24.5951373084866,
+  "crosstalk_peak_neg_t_ns": 2.34243678496261,
+  "crosstalk_pct_of_swing": 2.049594775707217
+}

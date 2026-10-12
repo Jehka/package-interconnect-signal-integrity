@@ -1,0 +1,15 @@
+quantity,Q4 embedded coupled microstrip
+C11 (pF/m),112.6521792
+C12 (pF/m),-9.024185851
+|C12|/C11 (%),8.01066248
+L11 (nH/m),332.9015824
+L12/L11 (%),10.38546705
+R11 (Ω/m),344.9926258
+G11 (mS/m),6.627696194
+"Re(Z0,11) (Ω)",54.73622696
+Even-mode attenuation (dB/m),28.80669967
+Odd-mode attenuation (dB/m),29.06381162
+Even-mode attenuation (Np/m),3.316493862
+Odd-mode attenuation (Np/m),3.346094969
+Even-mode ε_eff,3.438618
+Odd-mode ε_eff,3.280084136
